@@ -1,0 +1,39 @@
+Determining if the include file pthread.h exists failed with the following output:
+Change Dir: C:/Users/james_000/Desktop/SLAM_Mapping/Point_Cloud_Viewer/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe" "cmTC_37e3f.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=14.0"
+Microsoft (R) Build Engine version 14.0.24730.2
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 7/29/2016 2:45:14 PM.
+The target "BeforeGenerateProjectPriFile" listed in a BeforeTargets attribute at "C:\Program Files (x86)\MSBuild\Microsoft\NuGet\Microsoft.NuGet.targets (186,61)" does not exist in the project, and will be ignored.
+Project "C:\Users\james_000\Desktop\SLAM_Mapping\Point_Cloud_Viewer\build\CMakeFiles\CMakeTmp\cmTC_37e3f.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_37e3f.dir\Debug\".
+  Creating directory "C:\Users\james_000\Desktop\SLAM_Mapping\Point_Cloud_Viewer\build\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_37e3f.dir\Debug\cmTC_37e3f.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_37e3f.dir\Debug\cmTC_37e3f.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_37e3f.dir\Debug\\" /Fd"cmTC_37e3f.dir\Debug\vc140.pdb" /Gd /TC /errorReport:queue C:\Users\james_000\Desktop\SLAM_Mapping\Point_Cloud_Viewer\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.00.23506 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_37e3f.dir\Debug\\" /Fd"cmTC_37e3f.dir\Debug\vc140.pdb" /Gd /TC /errorReport:queue C:\Users\james_000\Desktop\SLAM_Mapping\Point_Cloud_Viewer\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c
+  
+  CheckIncludeFile.c
+C:\Users\james_000\Desktop\SLAM_Mapping\Point_Cloud_Viewer\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c(1): fatal error C1083: Cannot open include file: 'pthread.h': No such file or directory [C:\Users\james_000\Desktop\SLAM_Mapping\Point_Cloud_Viewer\build\CMakeFiles\CMakeTmp\cmTC_37e3f.vcxproj]
+Done Building Project "C:\Users\james_000\Desktop\SLAM_Mapping\Point_Cloud_Viewer\build\CMakeFiles\CMakeTmp\cmTC_37e3f.vcxproj" (default targets) -- FAILED.
+
+Build FAILED.
+
+"C:\Users\james_000\Desktop\SLAM_Mapping\Point_Cloud_Viewer\build\CMakeFiles\CMakeTmp\cmTC_37e3f.vcxproj" (default target) (1) ->
+(ClCompile target) -> 
+  C:\Users\james_000\Desktop\SLAM_Mapping\Point_Cloud_Viewer\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c(1): fatal error C1083: Cannot open include file: 'pthread.h': No such file or directory [C:\Users\james_000\Desktop\SLAM_Mapping\Point_Cloud_Viewer\build\CMakeFiles\CMakeTmp\cmTC_37e3f.vcxproj]
+
+    0 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:00.48
+
+
