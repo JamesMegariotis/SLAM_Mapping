@@ -1,0 +1,23 @@
+***disparity range tunings for 'out_1.ply' from image pair: 'shot_#_003'
+***
+
+window_size = 5
+
+min_disp = 8
+num_disp = 72-min_disp
+stereo = cv2.StereoSGBM_create(minDisparity = min_disp,
+				numDisparities = num_disp,
+
+				blockSize = 2,
+
+				P1 = 8*3*window_size**2,
+
+				P2 = 32*3*window_size**2,
+
+				disp12MaxDiff = 1,
+
+				uniquenessRatio = 10,
+ 
+				speckleWindowSize = 100,
+    
+				speckleRange = 32)
