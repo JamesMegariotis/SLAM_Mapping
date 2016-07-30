@@ -1,0 +1,19 @@
+1.) Get structure from motion in real time
+    -Sparse reconstruction is easily generate, but how do we put known dimensions or give the reconstruction some sort of scale.
+    -What dimesions are necessary?
+        ~distance from camera POV to points in the reconstruction (2-3 points for triangulation)
+    -Verify Camera Pose Estimation relaive to world frame
+        ~SFM gives orientation/pose estimation from each image capture
+            +compare quaternion output to known camera orientation at time of image capture
+            +use gem to aquire quaternion at moment of image capture and compare to camera data from SFM
+    -Aquire and incorporate GPS data to give map a location in real world frame
+        ~May help to give a scale to the map. Distances can be extrapolated from GPS readings
+2.) Optimize feature detection for real time use
+    -Computation time increases exponentially with the number of photos being analyzed
+    -Process images in a given minimum number of images (Possibly pairs or in groups of 4-10 images)
+3.) Dense reconstruction in real time for visualization/Demonstration
+    -May be considerable lag in rendering the Point Cloud Model
+    -Possibly register and stitch smaller point cloud models in real time to avoid computationally expensive operations
+    -How to piece together smaller point clouds and store them as 3D grid components containing all relevant data such as coordinates and surface normals
+4.) Send Usable map to other vehicle in order to allow for localization based on feature matching
+    -Possibly add to map and increase accuracy as navigating

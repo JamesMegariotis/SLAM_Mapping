@@ -21,3 +21,5 @@ stereo = cv2.StereoSGBM_create(minDisparity = min_disp,
 				speckleWindowSize = 100,
     
 				speckleRange = 32)
+
+***Model 'Desk_Model.ply' was created using sfm dense reconstruction method***
