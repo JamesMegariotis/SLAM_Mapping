@@ -48,3 +48,5 @@ Temporary Items
 /Point_Cloud_Generator/VisualSFM_windows_64bit/Room
 /Point_Cloud_Generator/VisualSFM_windows_64bit/room2
 /Point_Cloud_Generator/VisualSFM_windows_64bit/room3
+/SLAM/ekf_monocular_SLAM/sequences
+/SLAM/ekf_monocular_SLAM/matlab_code/sequences/ic.tgz
