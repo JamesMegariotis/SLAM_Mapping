@@ -1,0 +1,121 @@
+
+pmvs2
+C:\Users\james_000\Desktop\SLAM_Mapping\Point_Cloud_Generator\VisualSFM_windows_64bit\VisualSFM_windows_64bit\room3\room3_ply.nvm.cmvs\00\
+option-0000--------------------------------------------------
+--- Summary of specified options ---
+# of timages: 25 (enumeration)
+# of oimages: 0 (enumeration)
+level: 1  csize: 2
+threshold: 0.7  wsize: 7
+minImageNum: 3  CPU: 8
+useVisData: 1  sequence: -1
+--------------------------------------------------
+Reading images: *************************
+16 17 18 Harris running ...Harris running ...21 1922 2324  Harris running ...Harris running ... Harris running ...Harris running ...Harris running ...Harris running ...1484 harris done
+1488 harris done
+DoG running...1497 harris done
+DoG running...1544 harris done
+1494 harris done
+DoG running...1487 harris done
+1500 harris done
+DoG running...DoG running...DoG running...DoG running...1518 harris done
+DoG running...2040 dog done
+25 Harris running ...2040 dog done
+26 Harris running ...2040 dog done
+27 Harris running ...2040 dog done
+28 Harris running ...2040 dog done
+29 Harris running ...2040 dog done
+30 Harris running ...2039 dog done
+2040 dog done
+31 Harris running ...32 Harris running ...1538 harris done
+DoG running...1377 harris done
+DoG running...1503 harris done
+DoG running...1521 harris done
+DoG running...1524 harris done
+DoG running...1431 harris done
+DoG running...1534 harris done
+DoG running...1450 harris done
+DoG running...2033 dog done
+33 Harris running ...2035 dog done
+34 Harris running ...2031 dog done
+35 Harris running ...2039 dog done
+36 Harris running ...2032 dog done
+37 Harris running ...2039 dog done
+38 Harris running ...2032 dog done
+39 Harris running ...2039 dog done
+41 Harris running ...1537 harris done
+1457 harris done
+DoG running...DoG running...1577 harris done
+DoG running...1514 harris done
+DoG running...1538 harris done
+DoG running...1523 harris done
+DoG running...1572 harris done
+DoG running...1471 harris done
+DoG running...2031 dog done
+2033 dog done
+44 Harris running ...2030 dog done
+2031 dog done
+2031 dog done
+2028 dog done
+2036 dog done
+2039 dog done
+1569 harris done
+DoG running...2037 dog done
+done
+adding seeds 
+(24,90)(9,135)(1,83)(4,3)(7,145)(5,0)(12,252)(23,13)(0,268)(11,342)(6,0)(14,46)(15,30)(16,4)(13,46)(21,228)(8,3)(10,4)(20,8)(18,58)(3,0)(22,10)(2,0)(19,51)(17,24)done
+---- Initial: 0 secs ----
+Total pass fail0 fail1 refinepatch: 118509 2384 109959 6166 8550
+Total pass fail0 fail1 refinepatch: 100 2.01166 92.7854 5.20298 7.21464
+Expanding patches...
+---- EXPANSION: 10 secs ----
+Total pass fail0 fail1 refinepatch: 67053 32670 28512 5871 38541
+Total pass fail0 fail1 refinepatch: 100 48.7227 42.5216 8.75576 57.4784
+FilterOutside
+mainbody: 
+Gain (ave/var): 1.10076 1.1115
+34358 -> 32073 (93.3494%)	0 secs
+Filter Exact: *************************
+32073 -> 23526 (73.3514%)	0 secs
+FilterNeighbor:	23526 -> 10802 (45.9152%)	0 secs
+FilterGroups:	20
+10802 -> 5894 (54.564%)	0 secs
+STATUS: 727 0 46362 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 
+Expanding patches...
+---- EXPANSION: 6 secs ----
+Total pass fail0 fail1 refinepatch: 37088 14137 15077 7874 22011
+Total pass fail0 fail1 refinepatch: 100 38.1175 40.652 21.2306 59.348
+FilterOutside
+mainbody: 
+Gain (ave/var): 1.57693 1.31146
+20031 -> 19509 (97.394%)	0 secs
+Filter Exact: *************************
+19509 -> 14345 (73.5302%)	0 secs
+FilterNeighbor:	14345 -> 10671 (74.3883%)	0 secs
+FilterGroups:	20
+10671 -> 8945 (83.8253%)	0 secs
+STATUS: 939 0 68160 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 
+Expanding patches...
+---- EXPANSION: 7 secs ----
+Total pass fail0 fail1 refinepatch: 40504 15472 16497 8535 24007
+Total pass fail0 fail1 refinepatch: 100 38.1987 40.7293 21.072 59.2707
+FilterOutside
+mainbody: 
+Gain (ave/var): 1.68116 1.45904
+24417 -> 23771 (97.3543%)	0 secs
+Filter Exact: *************************
+23771 -> 16656 (70.0686%)	0 secs
+FilterNeighbor:	16656 -> 12897 (77.4316%)	0 secs
+FilterGroups:	20
+12897 -> 11063 (85.7796%)	0 secs
+STATUS: 1188 0 91917 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 
+---- Total: 0 secs ----

@@ -1,0 +1,157 @@
+
+pmvs2
+C:\Users\james_000\Desktop\SLAM_Mapping\Point_Cloud_Generator\VisualSFM_windows_64bit\VisualSFM_windows_64bit\room2\room2_ply.nvm.cmvs\00\
+option-0000--------------------------------------------------
+--- Summary of specified options ---
+# of timages: 43 (enumeration)
+# of oimages: 0 (enumeration)
+level: 1  csize: 2
+threshold: 0.7  wsize: 7
+minImageNum: 3  CPU: 8
+useVisData: 1  sequence: -1
+--------------------------------------------------
+Reading images: *******************************************
+20 28 31Harris running ... 3334Harris running ...39 41  Harris running ...42  Harris running ...Harris running ...Harris running ...Harris running ...Harris running ...1444 harris done
+DoG running...1456 harris done
+DoG running...1501 harris done
+DoG running...1499 harris done
+1523 harris done
+DoG running...1530 harris done
+1448 harris done
+DoG running...DoG running...DoG running...1498 harris done
+DoG running...2038 dog done
+44 Harris running ...2040 dog done
+45 Harris running ...2040 dog done
+2040 dog done
+46 Harris running ...57 Harris running ...2040 dog done
+59 Harris running ...2040 dog done
+60 Harris running ...2040 dog done
+62 Harris running ...2040 dog done
+63 Harris running ...1451 harris done
+DoG running...1474 harris done
+DoG running...1456 harris done
+DoG running...1470 harris done
+1517 harris done
+DoG running...DoG running...1509 harris done
+DoG running...1517 harris done
+DoG running...1515 harris done
+DoG running...2040 dog done
+64 Harris running ...2040 dog done
+65 Harris running ...2040 dog done
+67 Harris running ...2033 dog done
+70 Harris running ...2037 dog done
+72 Harris running ...2039 dog done
+74 Harris running ...2039 dog done
+75 Harris running ...2040 dog done
+76 Harris running ...1517 harris done
+DoG running...1538 harris done
+DoG running...1566 harris done
+DoG running...1530 harris done
+DoG running...1576 harris done
+DoG running...1442 harris done
+DoG running...1437 harris done
+DoG running...1492 harris done
+DoG running...2034 dog done
+78 Harris running ...2040 dog done
+85 Harris running ...2034 dog done
+87 Harris running ...2036 dog done
+89 Harris running ...2032 dog done
+90 Harris running ...2029 dog done
+95 Harris running ...2023 dog done
+96 Harris running ...2037 dog done
+97 Harris running ...1548 harris done
+DoG running...1552 harris done
+DoG running...1549 harris done
+DoG running...1562 harris done
+DoG running...1539 harris done
+DoG running...1535 harris done
+DoG running...1573 harris done
+DoG running...1535 harris done
+DoG running...2026 dog done
+98 Harris running ...2039 dog done
+99 Harris running ...2037 dog done
+102 Harris running ...2034 dog done
+104 Harris running ...2031 dog done
+106 Harris running ...2035 dog done
+107 Harris running ...2021 dog done
+109 Harris running ...2031 dog done
+118 Harris running ...1536 harris done
+DoG running...1560 harris done
+DoG running...1533 harris done
+DoG running...1513 harris done
+DoG running...1532 harris done
+DoG running...1522 harris done
+DoG running...1528 harris done
+DoG running...1571 harris done
+DoG running...2025 dog done
+119 Harris running ...2040 dog done
+120 Harris running ...2025 dog done
+124 Harris running ...2020 dog done
+2025 dog done
+2031 dog done
+2037 dog done
+2039 dog done
+1560 harris done
+DoG running...1531 harris done
+DoG running...1629 harris done
+DoG running...2038 dog done
+2032 dog done
+2040 dog done
+done
+adding seeds 
+(1,116)(31,181)(0,316)(36,250)(27,233)(9,301)(24,236)(29,45)(12,335)(18,87)(32,18)(28,9)(40,29)(41,2)(33,61)(15,207)(8,40)(26,56)(30,1)(17,80)(22,8)(23,133)(34,1)(20,114)(19,101)(5,1)(11,17)(6,57)(7,69)(35,2)(21,7)(13,0)(2,2)(38,0)(10,5)(25,1)(42,0)(4,15)(37,0)(16,0)(3,4)(39,62)(14,13)done
+---- Initial: 0 secs ----
+Total pass fail0 fail1 refinepatch: 146486 4450 132502 9534 13984
+Total pass fail0 fail1 refinepatch: 100 3.03783 90.4537 6.50847 9.5463
+Expanding patches...
+---- EXPANSION: 24 secs ----
+Total pass fail0 fail1 refinepatch: 135505 69160 56323 10022 79182
+Total pass fail0 fail1 refinepatch: 100 51.0387 41.5653 7.39604 58.4347
+FilterOutside
+mainbody: 
+Gain (ave/var): 1.3586 1.94261
+72072 -> 59846 (83.0364%)	0 secs
+Filter Exact: *******************************************
+59846 -> 38936 (65.0603%)	0 secs
+FilterNeighbor:	38936 -> 17356 (44.5757%)	0 secs
+FilterGroups:	20
+17356 -> 9664 (55.681%)	0 secs
+STATUS: 1626 0 91538 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 
+Expanding patches...
+---- EXPANSION: 14 secs ----
+Total pass fail0 fail1 refinepatch: 77835 29304 29973 18558 47862
+Total pass fail0 fail1 refinepatch: 100 37.6489 38.5084 23.8427 61.4916
+FilterOutside
+mainbody: 
+Gain (ave/var): 2.07662 2.20261
+38968 -> 37211 (95.4912%)	0 secs
+Filter Exact: *******************************************
+37211 -> 25807 (69.3531%)	0 secs
+FilterNeighbor:	25807 -> 18767 (72.7206%)	0 secs
+FilterGroups:	20
+18767 -> 15601 (83.13%)	0 secs
+STATUS: 2207 0 138819 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 
+Expanding patches...
+---- EXPANSION: 21 secs ----
+Total pass fail0 fail1 refinepatch: 111308 41315 43176 26817 68132
+Total pass fail0 fail1 refinepatch: 100 37.1177 38.7897 24.0926 61.2103
+FilterOutside
+mainbody: 
+Gain (ave/var): 1.96601 2.29114
+56916 -> 53735 (94.4111%)	0 secs
+Filter Exact: *******************************************
+53735 -> 33860 (63.0129%)	0 secs
+FilterNeighbor:	33860 -> 24220 (71.5298%)	0 secs
+FilterGroups:	20
+24220 -> 19507 (80.5409%)	0 secs
+STATUS: 3467 0 205690 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 
+---- Total: 0 secs ----

@@ -1,0 +1,95 @@
+
+Load existing NView match, begin...
+Load TestModel.nvm...
+
+IMG_2257
+image_size:	3264x2448
+focal_length:	2629.333
+#sift count:	5039
+
+IMG_2260
+image_size:	3264x2448
+focal_length:	2629.333
+#sift count:	4883
+
+IMG_2258
+image_size:	3264x2448
+focal_length:	2629.333
+#sift count:	3892
+
+IMG_2259
+image_size:	3264x2448
+focal_length:	2629.333
+#sift count:	3553
+
+IMG_2261
+image_size:	3264x2448
+focal_length:	2629.333
+#sift count:	2656
+
+IMG_2262
+image_size:	3264x2448
+focal_length:	2629.333
+#sift count:	4755
+
+IMG_2266
+image_size:	3264x2448
+focal_length:	2629.333
+#sift count:	2861
+
+IMG_2264
+image_size:	3264x2448
+focal_length:	2629.333
+#sift count:	4155
+
+IMG_2263
+image_size:	3264x2448
+focal_length:	2629.333
+#sift count:	5061
+
+IMG_2265
+image_size:	3264x2448
+focal_length:	2629.333
+#sift count:	3706
+
+IMG_2267
+image_size:	3264x2448
+focal_length:	2629.333
+#sift count:	2484
+
+IMG_2255
+image_size:	3264x2448
+focal_length:	2629.333
+#sift count:	3242
+
+IMG_2256
+image_size:	3264x2448
+focal_length:	2629.333
+#sift count:	4622
+
+IMG_2254
+image_size:	3264x2448
+focal_length:	2629.333
+#sift count:	3396
+
+IMG_2253
+image_size:	3264x2448
+focal_length:	2629.333
+#sift count:	4216
+
+IMG_2252
+image_size:	3264x2448
+focal_length:	2629.333
+#sift count:	4012
+
+Loading 4907 3D points...
+Loading TestModel.0.ply, 252169 vertices ...
+You can view existing dense reconstructions
+by using Menu "View->Dense 3D Points"
+# images loaded:	16
+Loading image pixel data ...done in 4s
+Loading matching records ...done in 1s
+----------------------------------------------------------------
+Load existing NView match, finished
+Totally 6.000 seconds used
+
